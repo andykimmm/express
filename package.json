@@ -1,6 +1,6 @@
 {
     "name": "express",
-    "version": "4.16.3",
+    "version": "0.0.1",
     "description": "Fast, unopinionated, minimalist web framework",
     "main": "app.js",
     "scripts": {
@@ -8,5 +8,5 @@
     },
 
     "author": "ZeroCho",
-    "license": "MIT",
+    "license": "MIT"
 }
