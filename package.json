@@ -7,6 +7,6 @@
         "start": "nodemon app" 
     },
 
-    "author": "ZeroCho",
+    "author": "ZeroCho"
     "license": "MIT",
 }
